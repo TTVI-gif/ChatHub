@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Nn7ympG1l0I3ETIe3AqrJ0Hpr5Qgce3ddzTqrziqLZo=",
+  "Source": "ChatHub.WebAPI",
+  "BasePath": "_content/ChatHub.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

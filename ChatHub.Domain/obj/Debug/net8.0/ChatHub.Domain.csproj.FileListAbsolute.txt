@@ -1,0 +1,12 @@
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\bin\Debug\net8.0\ChatHub.Domain.deps.json
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\bin\Debug\net8.0\ChatHub.Domain.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\bin\Debug\net8.0\ChatHub.Domain.pdb
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.AssemblyInfoInputs.cache
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.AssemblyInfo.cs
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.csproj.CoreCompileInputs.cache
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\refint\ChatHub.Domain.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.pdb
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ref\ChatHub.Domain.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Domain\obj\Debug\net8.0\ChatHub.Domain.csproj.AssemblyReference.cache

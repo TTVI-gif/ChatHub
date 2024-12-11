@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "9vUMU//AUfhAKTKqGqurRvQb1v1iA1VGFgabpStuiHGo8j8XFxw2wtu5qqwO8mY9D7D5O3K/nhUXy03g8HZmsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Domain\\ChatHub.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

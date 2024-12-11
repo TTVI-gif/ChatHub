@@ -1,0 +1,15 @@
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\bin\Debug\net8.0\ChatHub.Global.Shared.deps.json
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\bin\Debug\net8.0\ChatHub.Global.Shared.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\bin\Debug\net8.0\ChatHub.Global.Shared.pdb
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\bin\Debug\net8.0\ChatHub.Domain.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\bin\Debug\net8.0\ChatHub.Domain.pdb
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.csproj.AssemblyReference.cache
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.AssemblyInfoInputs.cache
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.AssemblyInfo.cs
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.csproj.CoreCompileInputs.cache
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub..04E610BF.Up2Date
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\refint\ChatHub.Global.Shared.dll
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ChatHub.Global.Shared.pdb
+C:\asvn\MyProject\ChatHub\ChatHub.Global.Shared\obj\Debug\net8.0\ref\ChatHub.Global.Shared.dll

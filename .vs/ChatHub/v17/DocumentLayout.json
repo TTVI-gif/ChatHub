@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Downloads\\ChatHub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|C:\\Users\\DELL\\Downloads\\ChatHub\\chathub.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|solutionrelative:chathub.webapi\\hubs\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F89C32C-C2FA-4E2C-93E6-61E860B8E12F}|ChatHub.Global.Shared\\ChatHub.Global.Shared.csproj|c:\\users\\dell\\downloads\\chathub\\chathub.global.shared\\commons\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F89C32C-C2FA-4E2C-93E6-61E860B8E12F}|ChatHub.Global.Shared\\ChatHub.Global.Shared.csproj|solutionrelative:chathub.global.shared\\commons\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2031F690-9521-4B03-8529-DF4AB1C8B773}|ChatHub.Infrastructures\\ChatHub.Infrastructures.csproj|C:\\Users\\DELL\\Downloads\\ChatHub\\chathub.infrastructures\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2031F690-9521-4B03-8529-DF4AB1C8B773}|ChatHub.Infrastructures\\ChatHub.Infrastructures.csproj|solutionrelative:chathub.infrastructures\\service\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|C:\\Users\\DELL\\Downloads\\ChatHub\\chathub.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|solutionrelative:chathub.webapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|C:\\Users\\DELL\\Downloads\\ChatHub\\chathub.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|solutionrelative:chathub.webapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2031F690-9521-4B03-8529-DF4AB1C8B773}|ChatHub.Infrastructures\\ChatHub.Infrastructures.csproj|C:\\Users\\DELL\\Downloads\\ChatHub\\chathub.infrastructures\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2031F690-9521-4B03-8529-DF4AB1C8B773}|ChatHub.Infrastructures\\ChatHub.Infrastructures.csproj|solutionrelative:chathub.infrastructures\\service\\messageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|C:\\Users\\DELL\\Downloads\\ChatHub\\chathub.webapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB3A9044-99B1-423C-83E3-F95FA0C0D495}|ChatHub.WebAPI\\ChatHub.WebAPI.csproj|solutionrelative:chathub.webapi\\controllers\\messagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ChatHub.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\Hubs\\ChatHub.cs",
+              "RelativeDocumentMoniker": "ChatHub.WebAPI\\Hubs\\ChatHub.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\Hubs\\ChatHub.cs",
+              "RelativeToolTip": "ChatHub.WebAPI\\Hubs\\ChatHub.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:45:05.347Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MessageController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\Controllers\\MessageController.cs",
+              "RelativeDocumentMoniker": "ChatHub.WebAPI\\Controllers\\MessageController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\Controllers\\MessageController.cs",
+              "RelativeToolTip": "ChatHub.WebAPI\\Controllers\\MessageController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:44:30.564Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "ChatHub.WebAPI\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "ChatHub.WebAPI\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:06:14.895Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Global.Shared\\Commons\\Constant.cs",
+              "RelativeDocumentMoniker": "ChatHub.Global.Shared\\Commons\\Constant.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Global.Shared\\Commons\\Constant.cs",
+              "RelativeToolTip": "ChatHub.Global.Shared\\Commons\\Constant.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:52:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Infrastructures\\Service\\JwtService.cs",
+              "RelativeDocumentMoniker": "ChatHub.Infrastructures\\Service\\JwtService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Infrastructures\\Service\\JwtService.cs",
+              "RelativeToolTip": "ChatHub.Infrastructures\\Service\\JwtService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAewCYAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T08:52:34.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "ChatHub.WebAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.WebAPI\\appsettings.json",
+              "RelativeToolTip": "ChatHub.WebAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T08:51:59.028Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MessageService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Infrastructures\\Service\\MessageService.cs",
+              "RelativeDocumentMoniker": "ChatHub.Infrastructures\\Service\\MessageService.cs",
+              "ToolTip": "C:\\Users\\DELL\\Downloads\\ChatHub\\ChatHub.Infrastructures\\Service\\MessageService.cs",
+              "RelativeToolTip": "ChatHub.Infrastructures\\Service\\MessageService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAApwBYAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T06:45:13.642Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
